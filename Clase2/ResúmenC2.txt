@@ -1,0 +1,4 @@
+- Interfaz de usuario y CLI.
+- Guía de instalación de VSCODE.
+- Introducción a la terminal.
+- Comandos básicos: ls, dir, cd, rm, mv, clear, mkdir, touch, pwd.

@@ -1,0 +1,7 @@
+- Introducción a GIT y GITHUB
+- Instalación de GIT y GITBASH.
+- Creación de un repositorio local.
+- Agregado de archivos en el repositorio.
+- Creación del primer commit.
+- Comandos git init, git config, git add, git status, commit -m.
+- Ejercicio Ecommerce.

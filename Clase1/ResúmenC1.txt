@@ -1,0 +1,4 @@
+- Presentación de los profesores.
+- Presentación de la materia, modalidad de cursado y de evaluación.
+- Breve definición de computadora.
+- Repaso general de la historia de la informática incluyendo las primeras computadoras y primer algoritmo

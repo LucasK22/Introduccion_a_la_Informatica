@@ -1,0 +1,7 @@
+- Primeros pasos en GitHub.
+- Registro y creación del primer repositorio remoto.
+- Conexión del primer repositorio local. Comando git remote add origin
+- Comandos para subir archivos en el repositorio: git push origin master.
+- Comandos para bajar archivos del repositorio: git clone, git pull.
+- Resolución de conflictos.
+- Tarea "La Mochila del Viajero".
